@@ -4,6 +4,10 @@
     "description": "Color theme designed to match the popular Ubuntu \"Arc\" theme.",
     "version": "0.0.1",
     "publisher": "SolarLiner",
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/SolarLiner/vscode-arc-theme"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },

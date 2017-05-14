@@ -29,6 +29,7 @@ code --install-extension solarliner.arc-theme
 ### TODO
 
 [ ] Create Light version
+
 [ ] Create Darker version
 
 ## Follow development

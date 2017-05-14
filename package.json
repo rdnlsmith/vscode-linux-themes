@@ -1,0 +1,22 @@
+{
+    "name": "arc-theme",
+    "displayName": "Arc Theme",
+    "description": "Color theme designed to match the popular Ubuntu \"Arc\" theme.",
+    "version": "0.0.1",
+    "publisher": "SolarLiner",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arc Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arc Dark-color-theme.json"
+            }
+        ]
+    }
+}

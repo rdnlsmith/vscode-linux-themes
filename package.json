@@ -2,7 +2,7 @@
     "name": "arc-theme",
     "displayName": "Arc Theme",
     "description": "Color theme designed to match the popular Ubuntu \"Arc\" theme.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "SolarLiner",
     "repository": {
         "type": "GitHub",

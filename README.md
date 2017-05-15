@@ -26,11 +26,22 @@ code --install-extension solarliner.arc-theme
 
 * Finally, you can also hit ```F1```, clear the angled bracket and type ```ext install arc-theme```.
 
+### Changelog
+
+* v0.1.1:
+  * Changed base syntax coloring to VS Dark+
+  * Made selection highlight more visible
+
+* v0.1.0:
+  * README.md updates
+
 ### TODO
 
-[ ] Create Light version
+* [ ] Create Light version
 
-[ ] Create Darker version
+* [ ] Create Night version (with darker colors)
+
+* [ ] Create Darker version
 
 ## Follow development
 

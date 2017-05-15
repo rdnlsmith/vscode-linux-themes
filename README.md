@@ -28,7 +28,10 @@ code --install-extension solarliner.arc-theme
 
 ### Changelog
 
-* v0.1.1:
+* v0.3.0:
+  * Directly included tokenColors from default Dark and Dark+ themes.
+
+* v0.2.0:
   * Changed base syntax coloring to VS Dark+
   * Made selection highlight more visible
 
@@ -36,6 +39,9 @@ code --install-extension solarliner.arc-theme
   * README.md updates
 
 ### TODO
+
+* [ ] Finish Arc Dark
+  * [ ] Complete set of syntax coloring
 
 * [ ] Create Light version
 

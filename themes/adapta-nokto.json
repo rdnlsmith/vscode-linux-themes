@@ -1,0 +1,11 @@
+{
+    "name": "Adapta Nokto",
+    "include": "./arc-theme.json",
+    "colors": {
+        "editor.background": "#222d32",
+        "statusBar.background": "#1a2226",
+        "sideBar.background": "#1a2226",
+        "editorGroup.background": "#1a2226",
+        "editorGroup.dropBackground": "#5C747E"
+    }
+}

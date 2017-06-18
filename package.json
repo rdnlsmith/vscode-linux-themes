@@ -1,7 +1,7 @@
 {
-    "name": "arc-theme",
-    "displayName": "Arc Theme",
-    "description": "Color theme designed to match the popular Ubuntu \"Arc\" theme.",
+    "name": "linux-themes",
+    "displayName": "Linux Themes for VS Code",
+    "description": "Color themes designed to match the popular Ubuntu themes.",
     "version": "0.3.0",
     "publisher": "SolarLiner",
     "repository": {
@@ -19,7 +19,12 @@
             {
                 "label": "Arc Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Arc Dark-color-theme.json"
+                "path": "./themes/arc-dark.json"
+            },
+            {
+                "label": "Adapta Nokto",
+                "uiTheme": "vs-dark",
+                "path": "./themes/adapta-nokto.json"
             }
         ]
     }

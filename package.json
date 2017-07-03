@@ -2,7 +2,7 @@
     "name": "linux-themes",
     "displayName": "Linux Themes for VS Code",
     "description": "Color themes designed to match the popular Ubuntu themes.",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "SolarLiner",
     "license": "MIT",
     "repository": {

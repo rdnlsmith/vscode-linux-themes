@@ -1,4 +1,5 @@
 {
+    "$schema": "vscode://schemas/color-theme",
     "name": "Adapta Nokto",
     "include": "./arc-theme.json",
     "colors": {

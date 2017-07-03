@@ -1,4 +1,5 @@
 {
+	"$schema": "vscode://schemas/color-theme",
 	"name": "Arc Dark",
 	"include": "./include/dark+_vs.json",
 	"colors": {

@@ -1,12 +1,29 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Adapta Nokto",
-    "include": "./arc-theme.json",
+    "include": "./arc-dark.json",
     "colors": {
-        "editor.background": "#222d32",
-        "statusBar.background": "#1a2226",
-        "sideBar.background": "#1a2226",
-        "editorGroup.background": "#1a2226",
-        "editorGroup.dropBackground": "#5C747E"
+        "activityBar.background": "#222D32",
+        "activityBar.dropBackground": "#00BCD470",
+        "badge.background": "#2D3B42",
+        "button.background": "#2D3B42",
+        "editor.background": "#29353b",
+        "editor.selectionBackground": "#00BCD470",
+        "editor.selectionHighlightBackground": "#00BCD415",
+        "editorCursor.foreground": "#00BCD4",
+        "editorGroup.background": "#222D32",
+        "editorGroup.dropBackground": "#00BCD470",
+        "editorGroupHeader.noTabsBackground": "#222D32",
+        "editorGroupHeader.tabsBackground": "#222D32",
+        "focusBorder": "#0005",
+        "input.background": "#243035",
+        "list.dropBackground": "#00BCD450",
+        "notification.background": "#222D32",
+        "selection.background": "#00BCD470",
+        "sideBar.background": "#243035",
+        "sideBarSectionHeader.background": "#222D32",
+        "statusBar.background": "#222D32",
+        "tab.activeBackground": "#29353b",
+        "tab.inactiveBackground": "#222D32"
     }
 }

@@ -4,6 +4,7 @@
     "description": "Color themes designed to match the popular Ubuntu themes.",
     "version": "0.4.0",
     "publisher": "SolarLiner",
+    "icon": "icon.png",
     "license": "MIT",
     "repository": {
         "type": "GitHub",

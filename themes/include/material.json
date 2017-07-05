@@ -1,5 +1,6 @@
 { // A Material theme, tokens taken from https://github.com/equinusocio/vsc-material-theme.
     "$schema": "vscode://schemas/color-theme",
+    "name": "Material Theme",
     "include": "./arc-dark.json",
     "tokenColors": [
 		{

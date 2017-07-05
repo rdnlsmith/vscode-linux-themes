@@ -4,9 +4,9 @@
 
 These VS Code themes integrate seamlessly with your GTK themes to provide a more integrated experience.
 
-![Screenshot 1](https://raw.githubusercontent.com/SolarLiner/vscode-arc-theme/master/res/Screenshot%20from%202017-05-14%2012-57-25.png)
+![Screenshot 1](https://raw.githubusercontent.com/SolarLiner/vscode-arc-theme/master/res/Screenshot%20from%202017-05-14%2013-45-06.png)
 
-![Screenshot 2](https://raw.githubusercontent.com/SolarLiner/vscode-arc-theme/master/res/Screenshot%20from%202017-05-14%2013-45-06.png)
+![Screenshot 2](https://raw.githubusercontent.com/SolarLiner/vscode-arc-theme/master/res/Capture%20d'%C3%A9cran%20de%202017-07-05%2023-01-01.png)
 
 For the Arc theme, the syntax coloring is the default VS Code one. For Adapta, it is taken from [Mattia Astorino's great Material Theme](https://github.com/equinusocio/vsc-material-theme) (an alternative to this Adapta theme!)
 

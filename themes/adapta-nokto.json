@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Adapta Nokto",
-    "include": "./arc-dark.json",
+    "include": "./include/material.json",
     "colors": {
         "activityBar.background": "#222D32",
         "activityBar.dropBackground": "#00BCD470",

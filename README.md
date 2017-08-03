@@ -1,12 +1,16 @@
 # Linux Themes for Visual Studio Code
 
+[Download](https://marketplace.visualstudio.com/items?itemName=SolarLiner.arc-theme) | [Contribute](CONTRIBUTING.md)
 ## An integrated color theme for the most popular Linux GTK themes
 
 These VS Code themes integrate seamlessly with your GTK themes to provide a more integrated experience.
 
-![Screenshot 1](https://raw.githubusercontent.com/SolarLiner/vscode-arc-theme/master/res/screen_arc.png)
+![Arc Theme](res/screen_arc.png)
 
-![Screenshot 2](https://raw.githubusercontent.com/SolarLiner/vscode-arc-theme/master/res/screen_adapta.png)
+![Adapta Theme](res/screen_adapta.png)
+
+![Ubuntu GNOME](res/screen_ugnome.png)
+*Coming soon!*
 
 For the Arc theme, the syntax coloring is the default VS Code one. For Adapta, it is taken from [Mattia Astorino's great Material Theme](https://github.com/equinusocio/vsc-material-theme) (an alternative to this Adapta theme!)
 

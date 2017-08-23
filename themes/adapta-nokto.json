@@ -703,12 +703,12 @@
 		}
 	],
     "colors": {
+		"editor.background": "#29353b",
+		"editorWidget.background": "#29353b",
         "activityBar.background": "#222D32",
         "activityBar.dropBackground": "#00BCD470",
         "badge.background": "#2D3B42",
         "button.background": "#2D3B42",
-		"editor.background": "#29353b",
-		"editorWidget.background": "#29353b",
         "debugToolBar.background": "#222D32",
         "editor.selectionBackground": "#00BCD470",
         "editor.selectionHighlightBackground": "#00BCD415",

@@ -5,7 +5,7 @@
 
 These VS Code themes integrate seamlessly with your GTK themes to provide a more integrated experience.
 
-![Arc Theme](res/screen_arc.png)
+![Arc Theme](res/arc-theme-base16-twilight.png)
 
 ![Adapta Theme](res/screen_adapta.png)
 

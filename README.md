@@ -9,7 +9,7 @@ These VS Code themes integrate seamlessly with your GTK themes to provide a more
 
 ![Adapta Theme](res/screen_adapta.png)
 
-![Ubuntu GNOME](res/screen_ugnome.png)
+![United Ubuntu](res/screen_ugnome.png)
 
 ![Ambiance](res/screen_ambiance.png)
 

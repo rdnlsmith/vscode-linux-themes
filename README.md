@@ -5,14 +5,21 @@
 
 These VS Code themes integrate seamlessly with your GTK themes to provide a more integrated experience.
 
-![Arc Theme](res/arc-theme-base16-twilight.png)
+![Arc Theme](res/screen_arc.png)
 
 ![Adapta Theme](res/screen_adapta.png)
 
 ![Ubuntu GNOME](res/screen_ugnome.png)
-*Coming soon!*
+
+![Ambiance](res/screen_ambiance.png)
 
 For the Arc theme, the syntax coloring is the default VS Code one. For Adapta, it is taken from [Mattia Astorino's great Material Theme](https://github.com/equinusocio/vsc-material-theme) (an alternative to this Adapta theme!)
+
+Syntax coloring used:
+
+- **Arc**: Base16 Tommorow Dark
+- **Adapta**: [Mattia Astorino's great Material Theme](https://github.com/equinusocio/vsc-material-theme) (an alternative to this Adapta theme!)
+- **United Ubuntu** & **Ambiance**: Base16 IR Black
 
 I created those themes myself to suit my needs - I hope you wil like it too!
 
@@ -28,9 +35,24 @@ code --install-extension solarliner.linux-themes
 
 * Alternatively, search for *Linux Themes* inside of VS Code.
 
-* Finally, you can also hit ```F1```, clear the angled bracket and type ```ext install linux-themes```.
+* Finally, you can also hit ```Ctrl+P``` and type ```ext install linux-themes```.
 
 ### Changelog
+
+* v1.0.0:
+  * Initial release of United Ubuntu theme
+  * Initial release of Ambiance theme
+  * Arc theme:
+    * Added Tomorrow token colors to Arc theme for better looking code
+    * Sidebar is now the same color as the activity bar, making it look more like the Files app
+  * Adapta theme:
+    * Added colors on debugging and toolbars
+
+* v0.5.0:
+  * Changed token colors on Adapta theme to match Mattia Astorino's
+
+* v0.4.0:
+  * Initial release of the Adapta theme
 
 * v0.3.0:
   * Directly included tokenColors from default Dark and Dark+ themes.
@@ -41,19 +63,6 @@ code --install-extension solarliner.linux-themes
 
 * v0.1.0:
   * README.md updates
-
-### TODO
-
-* [x] Finish Arc Dark
-  * [x] Complete set of syntax coloring
-
-* [ ] Create Light version
-
-* [ ] Create Night version (with darker colors)
-
-* [ ] Create Darker version
-
-* [x] Complete Adapta version with material syntax
 
 ## Follow development
 

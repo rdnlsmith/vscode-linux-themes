@@ -2,7 +2,7 @@
     "name": "linux-themes",
     "displayName": "Linux Themes for VS Code",
     "description": "Color themes designed to match the popular Ubuntu themes.",
-    "version": "0.5.0",
+    "version": "1.0.1",
     "publisher": "SolarLiner",
     "icon": "icon.png",
     "license": "MIT",
@@ -27,6 +27,16 @@
                 "label": "Adapta Nokto",
                 "uiTheme": "vs-dark",
                 "path": "./themes/adapta-nokto.json"
+            },
+            {
+                "label": "United Ubuntu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/united-gnome.json"
+            },
+            {
+                "label": "Ambiance [beta]",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ambiance.json"
             }
         ]
     }

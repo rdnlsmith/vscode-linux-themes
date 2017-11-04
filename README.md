@@ -1,7 +1,7 @@
 # Linux Themes for Visual Studio Code
 
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SolarLiner/vscode-arc-theme/master/LICENSE) [![Download](https://img.shields.io/badge/VS%20Code-v0.5.0-green.svg)](https://marketplace.visualstudio.com/items?itemName=SolarLiner.arc-theme) [![GitHub issues](https://img.shields.io/github/issues/SolarLiner/vscode-arc-theme.svg)](https://github.com/SolarLiner/vscode-arc-theme/issues)
-## An integrated color theme for the most popular Linux GTK themes
+[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SolarLiner/vscode-arc-theme/master/LICENSE) [![Download](https://img.shields.io/badge/VS%20Code-v1.0.0-green.svg)](https://marketplace.visualstudio.com/items?itemName=SolarLiner.arc-theme) [![GitHub issues](https://img.shields.io/github/issues/SolarLiner/vscode-arc-theme.svg)](https://github.com/SolarLiner/vscode-arc-theme/issues)
+## Integrated color themes for the most popular Linux GTK themes
 
 These VS Code themes integrate seamlessly with your GTK themes to provide a more integrated experience.
 
@@ -12,8 +12,6 @@ These VS Code themes integrate seamlessly with your GTK themes to provide a more
 ![United Ubuntu](res/screen_ugnome.png)
 
 ![Ambiance](res/screen_ambiance.png)
-
-For the Arc theme, the syntax coloring is the default VS Code one. For Adapta, it is taken from [Mattia Astorino's great Material Theme](https://github.com/equinusocio/vsc-material-theme) (an alternative to this Adapta theme!)
 
 Syntax coloring used:
 

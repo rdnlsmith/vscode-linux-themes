@@ -1,0 +1,5 @@
+{
+    "type": "dark",
+    "include": "./ambiance.json",
+	"colors": {}
+}

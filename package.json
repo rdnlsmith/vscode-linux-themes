@@ -24,6 +24,11 @@
                 "path": "./themes/arc-dark.json"
             },
             {
+                "label": "Arc",
+                "uiTheme": "vs",
+                "path": "./themes/arc.json"
+            },
+            {
                 "label": "Adapta Nokto",
                 "uiTheme": "vs-dark",
                 "path": "./themes/adapta-nokto.json"

@@ -19,7 +19,7 @@ Syntax coloring used:
 - **Adapta**: [Mattia Astorino's great Material Theme](https://github.com/equinusocio/vsc-material-theme) (an alternative to this Adapta theme!)
 - **United Ubuntu** & **Ambiance**: Base16 IR Black
 
-I created those themes myself to suit my needs - I hope you wil like it too!
+I created these themes myself to suit my needs - I hope you will like them too!
 
 ### Download
 

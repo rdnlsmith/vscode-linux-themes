@@ -34,6 +34,11 @@
                 "path": "./themes/adapta-nokto.json"
             },
             {
+                "label": "Pocillo Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pocillo-dark.json"
+            },
+            {
                 "label": "United Ubuntu",
                 "uiTheme": "vs-dark",
                 "path": "./themes/united-gnome.json"

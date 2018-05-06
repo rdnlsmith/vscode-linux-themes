@@ -37,6 +37,11 @@
                 "label": "Ambiance [beta]",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ambiance.json"
+            },
+            {
+                "label": "Radiance",
+                "uiTheme": "vs",
+                "path": "./themes/radiance.json"
             }
         ]
     }

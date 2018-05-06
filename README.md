@@ -37,30 +37,7 @@ code --install-extension solarliner.linux-themes
 
 ### Changelog
 
-* v1.0.0:
-  * Initial release of United Ubuntu theme
-  * Initial release of Ambiance theme
-  * Arc theme:
-    * Added Tomorrow token colors to Arc theme for better looking code
-    * Sidebar is now the same color as the activity bar, making it look more like the Files app
-  * Adapta theme:
-    * Added colors on debugging and toolbars
-
-* v0.5.0:
-  * Changed token colors on Adapta theme to match Mattia Astorino's
-
-* v0.4.0:
-  * Initial release of the Adapta theme
-
-* v0.3.0:
-  * Directly included tokenColors from default Dark and Dark+ themes.
-
-* v0.2.0:
-  * Changed base syntax coloring to VS Dark+
-  * Made selection highlight more visible
-
-* v0.1.0:
-  * README.md updates
+See [CHANGELOG.md](./CHANGELOG.md) for historical changelogs.
 
 ## Follow development
 

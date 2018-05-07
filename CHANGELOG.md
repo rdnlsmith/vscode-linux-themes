@@ -8,6 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - Pocillo Dark (initial release)
 - Arc Light (initial release)
+- Communitheme (initial release)
 
 ### Changed
 - [Arc Dark] Explicitely set text input border color

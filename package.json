@@ -63,6 +63,11 @@
         "path": "./themes/dark/united-gnome.json"
       },
       {
+        "label": "Yaru",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark/yaru.json"
+      },
+      {
         "label": "Arc",
         "uiTheme": "vs",
         "path": "./themes/light/arc.json"

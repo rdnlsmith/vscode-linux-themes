@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./themes/ts-built",
+    "rootDir": "./themes/src",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}

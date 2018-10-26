@@ -1,4 +1,4 @@
-{ // Token colors taken from https://github.com/equinusocio/vsc-material-theme.
+{
     "$schema": "vscode://schemas/color-theme",
     "name": "Adapta Nokto",
     "include": "./arc-dark.json",

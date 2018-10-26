@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-	"name": "Pocillo Dark",
+	"name": "Pocillo Dark [beta]",
     "type": "dark",
     "include": "./adapta-nokto.json",
     "colors": {

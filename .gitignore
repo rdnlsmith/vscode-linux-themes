@@ -93,7 +93,9 @@ ipch/
 *.sap
 
 # Visual Studio Code folders
-.vscode/
+# Keep launch.json
+.vscode/*
+!.vscode/launch.json
 
 # TFS 2012 Local Workspace
 $tf/

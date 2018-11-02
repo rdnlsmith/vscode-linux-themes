@@ -43,6 +43,11 @@
         "path": "./themes/dark/arc-dark.json"
       },
       {
+        "label": "Better Arc Dark [beta]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark/better-arc dark.json"
+      },
+      {
         "label": "Communitheme",
         "uiTheme": "vs-dark",
         "path": "./themes/dark/communitheme.json"

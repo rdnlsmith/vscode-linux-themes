@@ -29,7 +29,7 @@ const colors = {
 
 const colorSet: IColorSet = {
   base: {
-    background: colors.arcGray5,
+    background: colors.arcGray2,
     foreground: colors.white,
     color1: colors.arcBlue,
     color2: colors.green,
@@ -60,10 +60,15 @@ const colorSet: IColorSet = {
     brightWhite: colors.brightWhite,
   },
   overrides: {
-    'activityBar.background': colors.arcGray1,
-    'sideBar.background': colors.arcGray2,
-    'sideBarSectionHeader.background': colors.arcGray1,
+    'activityBar.background': colors.arcGray3,
+    'list.activeSelectionBackground': colors.arcBlue,
+    'list.hoverBackground': colors.arcGray3,
+    'list.inactiveSelectionBackground': colors.arcGray3,
+    'panel.background': colors.arcGray2,
+    'sideBar.background': colors.arcGray1,
+    'sideBarSectionHeader.background': colors.arcGray3,
     'statusBar.background': colors.brightBlack,
+    'terminal.background': colors.arcGray2,
     'titleBar.activeBackground': colors.brightBlack,
     'titleBar.inactiveBackground': colors.brightBlack
   }

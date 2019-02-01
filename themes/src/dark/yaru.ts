@@ -3,33 +3,34 @@ import { generateTheme, IColorSet } from 'vscode-theme-generator';
 
 const themeName = 'Yaru [beta]';
 const colors = {
-  black: '#111111',
   white: '#FFFFFF',
-  blue: '#5555FF',
+  cyan: '#55ffff',
   red: '#FF5555',
-  green: '#55FF55',
-  yellow: '#FFFF33',
-  ubuntuGray: '#2b2929',
-  ubuntuMediumGray: '#1e1d1d',
-  ubuntuDarkGray: '#111111',
+  green: '#55ff55',
   ubuntuOrange: '#e95420',
-  lightAubergine: '#77216f',
-  lighterAubergine: '#9f639a',
+  lightAubergine: '#bb90b7',
   midAubergine: '#5e2750',
-  darkAubergine: '#2c001e'
+  darkAubergine: '#300a24',
+  titleBarGray: '#2b2929',
+  inactiveTitleBarGray: '#3d3a3a',
+  menuGray: '#494949',
+  bodyGray: '#383838',
+  editorGray: '#2f2f2f',
+  sideBarGray: '#3f3f3f',
+  highlightGray: '#575757'
 }
 
 const colorSet: IColorSet = {
   base: {
-    background: colors.ubuntuGray,
+    background: colors.bodyGray,
     foreground: colors.white,
     color1: colors.ubuntuOrange,
     color2: colors.red,
     color3: colors.green,
-    color4: colors.lighterAubergine
+    color4: colors.cyan
   },
   syntax: {
-    keyword: colors.lighterAubergine
+    keyword: colors.lightAubergine,
   },
   terminal: {
     black: '#000000',
@@ -49,12 +50,28 @@ const colorSet: IColorSet = {
     brightCyan: '#55ffff',
     brightWhite: '#ffffff',
   },
+  ui: {
+    selection: colors.midAubergine
+  },
   overrides: {
-    'editor.background': colors.ubuntuDarkGray,
-    'editorGroupHeader.tabsBackground': colors.ubuntuGray,
-    'panel.background': colors.ubuntuDarkGray,
-    'sideBar.background': colors.ubuntuGray,
-    'terminal.background': '#300a24',
+    'activityBar.background': colors.highlightGray,
+    'editor.background': colors.editorGray,
+    'editorGroupHeader.tabsBackground': colors.bodyGray,
+    'list.activeSelectionBackground': colors.ubuntuOrange,
+    'list.hoverBackground': colors.highlightGray,
+    'list.inactiveSelectionBackground': colors.highlightGray,
+    'menu.background': colors.menuGray,
+    'menu.selectionBackground': colors.highlightGray,
+    'menubar.selectionBackground': colors.menuGray,
+    'panel.background': colors.bodyGray,
+    'sideBar.background': colors.sideBarGray,
+    'sideBarSectionHeader.background': colors.highlightGray,
+    'statusBar.background': colors.editorGray,
+    'tab.inactiveBackground': colors.bodyGray,
+    'tab.unfocusedInactiveBackground': colors.bodyGray,
+    'terminal.background': colors.darkAubergine,
+    'titleBar.activeBackground': colors.titleBarGray,
+    'titleBar.inactiveBackground': colors.inactiveTitleBarGray,
   }
 };
 

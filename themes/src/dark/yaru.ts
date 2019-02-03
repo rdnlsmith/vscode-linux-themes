@@ -17,7 +17,8 @@ const colors = {
   bodyGray: '#383838',
   editorGray: '#2f2f2f',
   sideBarGray: '#3f3f3f',
-  highlightGray: '#575757'
+  highlightGray: '#575757',
+  commentGray: '#a8a8a8',
 }
 
 const colorSet: IColorSet = {
@@ -30,7 +31,9 @@ const colorSet: IColorSet = {
     color4: colors.cyan
   },
   syntax: {
+    comment: colors.commentGray,
     keyword: colors.lightAubergine,
+    markdownQuote: colors.commentGray,
   },
   terminal: {
     black: '#000000',

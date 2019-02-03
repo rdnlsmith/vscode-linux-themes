@@ -9,6 +9,7 @@ const colors = {
   arcGray4: '#7c818c',
   arcGray5: '#21232c',
   arcBlue: '#5294e2',
+  commentBlue: '#a8b4de',
   black: '#262b36',
   red: '#9c3528',
   green: '#61bc3b',
@@ -38,8 +39,10 @@ const colorSet: IColorSet = {
   },
   syntax: {
     boolean: colors.yellow,
+    comment: colors.commentBlue,
     functionCall: colors.brightCyan,
     identifier: colors.brightRed,
+    markdownQuote: colors.commentBlue,
   },
   terminal: {
     black: colors.black,

@@ -1,7 +1,7 @@
 import * as path from 'path';
 import { generateTheme, IColorSet } from 'vscode-theme-generator';
 
-const themeName = 'Better Arc Dark [beta]';
+const themeName = 'Arc Dark';
 const colors = {
   arcGray1: '#404552',
   arcGray2: '#383c4a',

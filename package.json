@@ -1,88 +1,93 @@
 {
-  "name": "linux-themes",
-  "displayName": "Linux Themes for VS Code",
-  "description": "Color themes designed to match the popular Ubuntu themes.",
-  "version": "1.0.1",
-  "publisher": "SolarLiner",
-  "icon": "icon.png",
-  "license": "MIT",
-  "scripts": {
-    "clean": "node clean.js",
-    "build": "tsc",
-    "prerebuild": "npm run clean",
-    "rebuild": "npm run build",
-    "pregenerate": "npm run rebuild",
-    "generate": "node generate.js",
-    "start": "npm run generate"
-  },
-  "repository": {
-    "type": "GitHub",
-    "url": "https://github.com/rdnlsmith/vscode-arc-theme"
-  },
-  "engines": {
-    "vscode": "^1.12.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Adapta Nokto",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/adapta-nokto.json"
-      },
-      {
-        "label": "Ambiance [beta]",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/ambiance.json"
-      },
-      {
-        "label": "Arc Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/arc-dark.json"
-      },
-      {
-        "label": "Better Arc Dark [beta]",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/better-arc dark.json"
-      },
-      {
-        "label": "Communitheme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/communitheme.json"
-      },
-      {
-        "label": "Flat-Plat [beta]",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/flat-plat.json"
-      },
-      {
-        "label": "Pocillo Dark [beta]",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/pocillo-dark.json"
-      },
-      {
-        "label": "United Ubuntu",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/united-gnome.json"
-      },
-      {
-        "label": "Yaru [beta]",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/yaru.json"
-      },
-      {
-        "label": "Arc",
-        "uiTheme": "vs",
-        "path": "./themes/light/arc.json"
-      }
-    ]
-  },
-  "devDependencies": {
-    "@types/node": "^10.12.0",
-    "glob": "^7.1.3",
-    "typescript": "^3.1.3",
-    "vscode-theme-generator": "0.0.21"
-  }
+	"name": "linux-themes",
+	"displayName": "Linux Themes for VS Code",
+	"description": "Color themes designed to match the popular Ubuntu themes.",
+	"version": "1.0.1",
+	"publisher": "SolarLiner",
+	"icon": "icon.png",
+	"license": "MIT",
+	"scripts": {
+		"clean": "node clean.js",
+		"build": "tsc",
+		"prerebuild": "npm run clean",
+		"rebuild": "npm run build",
+		"pregenerate": "npm run rebuild",
+		"generate": "node generate.js",
+		"start": "npm run generate"
+	},
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rdnlsmith/vscode-arc-theme"
+	},
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Adapta Nokto",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/adapta-nokto.json"
+			},
+			{
+				"label": "Ambiance [beta]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/ambiance.json"
+			},
+			{
+				"label": "Arc Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/arc-dark.json"
+			},
+			{
+				"label": "Better Arc Dark [beta]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/better-arc dark.json"
+			},
+			{
+				"label": "Communitheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/communitheme.json"
+			},
+			{
+				"label": "Flat-Plat [beta]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/flat-plat.json"
+			},
+			{
+				"label": "Pocillo Dark [beta]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/pocillo-dark.json"
+			},
+			{
+				"label": "United Ubuntu",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/united-gnome.json"
+			},
+			{
+				"label": "Yaru [beta]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/yaru.json"
+			},
+			{
+				"label": "Arc",
+				"uiTheme": "vs",
+				"path": "./themes/light/arc.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@types/node": "^10.12.0",
+		"glob": "^7.1.3",
+		"typescript": "^3.1.3",
+		"vscode-theme-generator": "0.0.21"
+	},
+	"__metadata": {
+		"id": "ff7b0247-07d3-4102-8b68-0175a12a51aa",
+		"publisherDisplayName": "SolarLiner",
+		"publisherId": "2bd479ce-6e68-4291-a283-5ad617948f94"
+	}
 }

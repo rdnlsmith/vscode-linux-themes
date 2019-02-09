@@ -71,6 +71,11 @@
         "label": "Arc",
         "uiTheme": "vs",
         "path": "./themes/light/arc.json"
+      },
+      {
+        "label": "Yaru [Beta]",
+        "uiTheme": "vs",
+        "path": "./themes/light/yaru.json"
       }
     ]
   },

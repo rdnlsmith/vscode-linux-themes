@@ -1,7 +1,7 @@
 import * as path from 'path';
 import { generateTheme, IColorSet } from 'vscode-theme-generator';
 
-const themeName = 'Yaru [beta]';
+const themeName = 'Yaru Dark';
 const colors = {
   white: '#FFFFFF',
   cyan: '#55ffff',

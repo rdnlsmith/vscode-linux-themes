@@ -1,5 +1,5 @@
 {
-  "name": "Yaru [Beta]",
+  "name": "Yaru",
   "tokenColors": [
     {
       "name": "Global settings",
@@ -33,7 +33,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#006666"
+        "foreground": "#008080"
       }
     },
     {
@@ -54,7 +54,7 @@
       "name": "Function call",
       "scope": "entity.name.function, support.function",
       "settings": {
-        "foreground": "#006666"
+        "foreground": "#008080"
       }
     },
     {
@@ -76,21 +76,21 @@
       "name": "Type",
       "scope": "support.type",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
       "name": "Type",
       "scope": "entity.name.type, entity.other.inherited-class",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#333333",
+        "foreground": "#8c8c8c",
         "fontStyle": "italic"
       }
     },
@@ -98,7 +98,7 @@
       "name": "Class",
       "scope": "entity.name.type.class",
       "settings": {
-        "foreground": "00ff00",
+        "foreground": "#00b300",
         "fontStyle": "underline"
       }
     },
@@ -106,21 +106,21 @@
       "name": "Class variable",
       "scope": "variable.object.property, meta.field.declaration entity.name.function",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
       "name": "Class method",
       "scope": "meta.definition.method entity.name.function",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
       "name": "Function definition",
       "scope": "meta.function entity.name.function",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
@@ -176,7 +176,7 @@
       "name": "CSS tag",
       "scope": "source.css entity.name.tag",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
@@ -197,7 +197,7 @@
       "name": "HTML tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#006666"
+        "foreground": "#008080"
       }
     },
     {
@@ -218,7 +218,7 @@
       "name": "Markdown block quote",
       "scope": "text.html.markdown markup.quote",
       "settings": {
-        "foreground": "#333333"
+        "foreground": "#8c8c8c"
       }
     },
     {
@@ -284,7 +284,7 @@
       "name": "C# class",
       "scope": "source.cs meta.class.identifier storage.type",
       "settings": {
-        "foreground": "00ff00",
+        "foreground": "#00b300",
         "fontStyle": "underline"
       }
     },
@@ -292,35 +292,35 @@
       "name": "C# class method",
       "scope": "source.cs meta.method.identifier entity.name.function",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
       "name": "C# function call",
       "scope": "source.cs meta.method-call meta.method, source.cs entity.name.function",
       "settings": {
-        "foreground": "#006666"
+        "foreground": "#008080"
       }
     },
     {
       "name": "C# type",
       "scope": "source.cs storage.type",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
       "name": "C# return type",
       "scope": "source.cs meta.method.return-type",
       "settings": {
-        "foreground": "00ff00"
+        "foreground": "#00b300"
       }
     },
     {
       "name": "C# preprocessor",
       "scope": "source.cs meta.preprocessor",
       "settings": {
-        "foreground": "#333333"
+        "foreground": "#8c8c8c"
       }
     },
     {
@@ -371,8 +371,8 @@
     "editor.selectionBackground": "#903c7b",
     "editor.lineHighlightBorder": "#FFFFFF1a",
     "editor.rangeHighlightBackground": "#FFFFFF0d",
-    "editorWhitespace.foreground": "#aea79f",
-    "editorIndentGuide.background": "#aea79f",
+    "editorWhitespace.foreground": "#bfbfbf",
+    "editorIndentGuide.background": "#bfbfbf",
     "editorWidget.background": "#f6f6f6",
     "editorHoverWidget.background": "#f6f6f6",
     "editorMarkerNavigation.background": "#f6f6f6",

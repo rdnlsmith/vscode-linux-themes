@@ -1,12 +1,12 @@
 import * as path from 'path';
 import { generateTheme, IColorSet } from 'vscode-theme-generator';
 
-const themeName = 'Yaru [Beta]';
+const themeName = 'Yaru';
 const colors = {
   white: '#FFFFFF',
-  cyan: '#006666',
+  cyan: '#008080',
   red: '#ff0000',
-  green: '00ff00',
+  green: '#00b300',
   ubuntuOrange: '#e95420',
   lightAubergine: '#bb90b7',
   midAubergine: '#903c7b',
@@ -20,10 +20,10 @@ const colors = {
   editorGray: '#2f2f2f',
   sideBarWhite: '#f6f6f6',
   highlightGray: '#e4e4e4',
-  commentGray: '#a8a8a8',
+  commentGray: '#8c8c8c',
   textGray: '#111111',
   ubuntuWarmGray: '#aea79f',
-  ubuntuCoolGray: '#333333',
+  guideGray: '#bfbfbf',
 }
 
 const colorSet: IColorSet = {
@@ -37,11 +37,9 @@ const colorSet: IColorSet = {
     color4: colors.cyan
   },
   syntax: {
-    comment: colors.ubuntuCoolGray,
+    comment: colors.commentGray,
     keyword: colors.midAubergine,
-    class: colors.green,
-    type: colors.green,
-    markdownQuote: colors.ubuntuCoolGray,
+    markdownQuote: colors.commentGray,
   },
   terminal: {
     black: '#000000',
@@ -62,8 +60,8 @@ const colorSet: IColorSet = {
     brightWhite: '#ffffff',
   },
   ui: {
-    invisibles: colors.ubuntuWarmGray,
-    guide: colors.ubuntuWarmGray,
+    invisibles: colors.guideGray,
+    guide: colors.guideGray,
     selection: colors.midAubergine,
   },
   overrides: {

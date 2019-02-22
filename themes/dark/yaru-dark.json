@@ -407,6 +407,7 @@
     "terminal.ansiYellow": "#aa5500",
     "debugToolBar.background": "#4e4e4e",
     "selection.background": "#e95420",
+    "editorIndentGuide.activeBackground": "#e95420",
     "menu.background": "#494949",
     "menu.selectionBackground": "#575757",
     "menubar.selectionBackground": "#494949",

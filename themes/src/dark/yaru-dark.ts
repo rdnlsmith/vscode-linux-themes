@@ -60,6 +60,7 @@ const colorSet: IColorSet = {
     'activityBar.background': colors.highlightGray,
     'editor.background': colors.editorGray,
     'editorGroupHeader.tabsBackground': colors.bodyGray,
+    'editorIndentGuide.activeBackground': colors.ubuntuOrange,
     'list.activeSelectionBackground': colors.ubuntuOrange,
     'list.hoverBackground': colors.highlightGray,
     'list.inactiveSelectionBackground': colors.highlightGray,

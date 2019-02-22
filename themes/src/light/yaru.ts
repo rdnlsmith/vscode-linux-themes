@@ -72,6 +72,7 @@ const colorSet: IColorSet = {
     'editor.background': colors.white,
     'editorGroupHeader.tabsBackground': colors.bodyGray,
     'editorHoverWidget.background': colors.sideBarWhite,
+    'editorIndentGuide.activeBackground': colors.ubuntuOrange,
     'editorLineNumber.foreground': colors.ubuntuWarmGray,
     'editorMarkerNavigation.background': colors.sideBarWhite,
     'editorSuggestWidget.background': colors.sideBarWhite,

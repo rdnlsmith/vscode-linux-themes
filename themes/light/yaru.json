@@ -410,6 +410,7 @@
     "debugToolBar.background": "#FFFFFF",
     "selection.background": "#e95420",
     "activityBar.foreground": "#111111",
+    "editorIndentGuide.activeBackground": "#e95420",
     "editorSuggestWidget.background": "#f6f6f6",
     "menu.background": "#FFFFFF",
     "menu.selectionBackground": "#e4e4e4",

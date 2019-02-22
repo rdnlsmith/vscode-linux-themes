@@ -64,6 +64,7 @@ const colorSet: IColorSet = {
   },
   overrides: {
     'activityBar.background': colors.arcGray3,
+    'editorIndentGuide.activeBackground': colors.arcBlue,
     'list.activeSelectionBackground': colors.arcBlue,
     'list.hoverBackground': colors.arcGray3,
     'list.inactiveSelectionBackground': colors.arcGray3,

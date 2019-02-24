@@ -43,16 +43,6 @@
         "path": "./themes/dark/arc-dark.json"
       },
       {
-        "label": "Flat-Plat [beta]",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/flat-plat.json"
-      },
-      {
-        "label": "Pocillo Dark [beta]",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/pocillo-dark.json"
-      },
-      {
         "label": "United Ubuntu",
         "uiTheme": "vs-dark",
         "path": "./themes/dark/united-gnome.json"
@@ -61,11 +51,6 @@
         "label": "Yaru Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark/yaru-dark.json"
-      },
-      {
-        "label": "Arc",
-        "uiTheme": "vs",
-        "path": "./themes/light/arc.json"
       },
       {
         "label": "Yaru",

@@ -43,11 +43,6 @@
         "path": "./themes/dark/arc-dark.json"
       },
       {
-        "label": "Communitheme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark/communitheme.json"
-      },
-      {
         "label": "Flat-Plat [beta]",
         "uiTheme": "vs-dark",
         "path": "./themes/dark/flat-plat.json"

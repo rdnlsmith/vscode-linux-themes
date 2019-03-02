@@ -6,12 +6,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 ### Added
-- Pocillo Dark (initial release)
-- Arc Light (initial release)
-- Communitheme (initial release)
+
+* [Arc Light] Early development
+* [Flat-Plat] Early development
+* [Pocillo Dark] Early development
+
+## v1.1.0
+
+### Added
+
+* [Yaru] Initial release
+* [Yaru Dark] Initial release
 
 ### Changed
-- [Arc Dark] Explicitely set text input border color
+
+* [Arc Dark] Refreshed theme with improved theme API coverage and more vibrant syntax colors
 
 ## v1.0.0
 

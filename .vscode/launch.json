@@ -14,7 +14,7 @@
             "outFiles": [
                 "${workspaceFolder}/out/**/*.js"
             ],
-            "preLaunchTask": "npm: start"
+            "preLaunchTask": "npx gulp"
         }
     ]
 }

@@ -5,7 +5,7 @@
       "name": "Global settings",
       "settings": {
         "background": "#eff0f1",
-        "foreground": "#111111"
+        "foreground": "#5e5e5e"
       }
     },
     {
@@ -134,7 +134,7 @@
       "name": "Reset embedded/template expression colors",
       "scope": "meta.embedded, source.groovy.embedded, meta.template.expression",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#5e5e5e"
       }
     },
     {
@@ -320,37 +320,37 @@
       "name": "C# namespace",
       "scope": "source.cs entity.name.type.namespace",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#5e5e5e"
       }
     },
     {
       "name": "Global settings",
       "settings": {
         "background": "#eff0f1",
-        "foreground": "#111111"
+        "foreground": "#5e5e5e"
       }
     }
   ],
   "colors": {
     "focusBorder": "#e95420",
-    "foreground": "#111111",
+    "foreground": "#5e5e5e",
     "dropdown.background": "#5f6060",
     "input.background": "#5f6060",
     "inputOption.activeBorder": "#e95420",
     "list.activeSelectionBackground": "#e9542080",
     "list.dropBackground": "#e9542080",
     "list.focusBackground": "#e9542080",
-    "list.hoverBackground": "#FFFFFF1a",
-    "list.inactiveSelectionBackground": "#FFFFFF33",
-    "activityBar.background": "#8f9090",
+    "list.hoverBackground": "#cccccc",
+    "list.inactiveSelectionBackground": "#cccccc",
+    "activityBar.background": "#d1d1d1",
     "activityBar.dropBackground": "#e9542080",
     "activityBarBadge.background": "#e95420",
-    "sideBar.background": "#bfc0c0",
-    "sideBarSectionHeader.background": "#8f9090",
+    "sideBar.background": "#e2e2e2",
+    "sideBarSectionHeader.background": "#d1d1d1",
     "editorGroup.dropBackground": "#e9542080",
     "editorGroup.focusedEmptyBorder": "#e95420",
     "editorGroupHeader.tabsBackground": "#fbefce",
-    "tab.border": "#00000033",
+    "tab.border": "#e9d18d",
     "tab.activeBorder": "#fdf6e3",
     "tab.inactiveBackground": "#fbefce",
     "tab.activeModifiedBorder": "#e95420",
@@ -358,8 +358,8 @@
     "tab.unfocusedActiveModifiedBorder": "#ba4319",
     "tab.unfocusedInactiveModifiedBorder": "#8b3213",
     "editor.background": "#fdf6e3",
-    "editor.foreground": "#111111",
-    "editorLineNumber.foreground": "#FFFFFF4d",
+    "editor.foreground": "#5e5e5e",
+    "editorLineNumber.foreground": "#93a1a1",
     "editorLineNumber.activeForeground": "#e95420",
     "editor.lineHighlightBorder": "#FFFFFF1a",
     "editor.rangeHighlightBackground": "#FFFFFF0d",
@@ -370,10 +370,10 @@
     "peekViewEditor.background": "#ffffff",
     "peekViewResult.background": "#bfc0c0",
     "peekViewTitle.background": "#eff0f1",
-    "panel.background": "#bfc0c0",
-    "panel.border": "#FFFFFF1a",
-    "panelTitle.activeBorder": "#11111180",
-    "panelTitle.inactiveForeground": "#11111180",
+    "panel.background": "#fbefce",
+    "panel.border": "#e9d18d",
+    "panelTitle.activeBorder": "#5e5e5e80",
+    "panelTitle.inactiveForeground": "#5e5e5e80",
     "statusBar.background": "#ffffff",
     "statusBar.debuggingBackground": "#e95420",
     "statusBar.noFolderBackground": "#ffffff",
@@ -399,6 +399,14 @@
     "terminal.ansiYellow": "#b58900",
     "debugToolBar.background": "#8f9090",
     "selection.background": "#e95420",
+    "activityBar.foreground": "#5e5e5e",
+    "editorCursor.foreground": "#5e5e5e",
+    "editorGroupHeader.tabsBorder": "#e9d18d",
+    "editorGutter.background": "#eee8d5",
+    "menu.background": "#f5f5f5",
+    "menu.selectionBackground": "#d6d6d6",
+    "menu.selectionForeground": "#5e5e5e",
+    "statusBar.foreground": "#5e5e5e",
     "tab.inactiveBorder": "#e9d18d",
     "terminal.background": "#252e32",
     "terminal.foreground": "#94a3a5",

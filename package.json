@@ -48,6 +48,11 @@
         "path": "./themes/dark/yaru-dark.json"
       },
       {
+        "label": "Elementary",
+        "uiTheme": "vs",
+        "path": "./themes/light/elementary.json"
+      },
+      {
         "label": "Yaru",
         "uiTheme": "vs",
         "path": "./themes/light/yaru.json"

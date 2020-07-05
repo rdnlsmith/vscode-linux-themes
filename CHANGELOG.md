@@ -11,6 +11,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * [Flat-Plat] Early development
 * [Pocillo Dark] Early development
 
+## v1.2.0
+
+### Added
+
+* [Elementary] Initial release
+
 ## v1.1.0
 
 ### Added

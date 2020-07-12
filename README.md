@@ -5,15 +5,34 @@
 
 These VS Code themes blend seamlessly with your GTK themes to provide a more integrated experience.
 
-![Arc Dark Theme](res/arc-dark.png)
+Preview of the included themes (see the [gallery page](gallery.md) for full-size screenshots):
 
-![Adapta Theme](res/screen_adapta.png)
-
-![United Ubuntu](res/screen_ugnome.png)
-
-![Yaru Dark](res/yaru-dark.png)
-
-![Yaru](res/yaru.png)
+<table>
+  <tr>
+    <td><img alt="Adapta Nokto" src="res/adapta-nokto.png" width="200"></td>
+    <td><img alt="Ambiance" src="res/ambiance.png" width="200"></td>
+    <td><img alt="Arc Dark" src="res/arc-dark.png" width="200"></td>
+    <td><img alt="United Ubuntu" src="res/united-gnome.png" width="200"></td>
+  </tr>
+  <tr>
+    <th>Ambiance</th>
+    <th>Adapta Nokto</th>
+    <th>Arc Dark</th>
+    <th>United Gnome</th>
+  </tr>
+  <tr>
+    <td><img alt="Yaru Dark" src="res/yaru-dark.png" width="200"></td>
+    <td><img alt="Elementary" src="res/elementary.png" width="200"></td>
+    <td><img alt="Yaru" src="res/yaru.png" width="200"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Yaru Dark</th>
+    <th>Elementary</th>
+    <th>Yaru</th>
+    <th></th>
+  </tr>
+</table>
 
 Syntax coloring used:
 

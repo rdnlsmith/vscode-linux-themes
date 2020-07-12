@@ -5,6 +5,8 @@
 
 These VS Code themes blend seamlessly with your GTK themes to provide a more integrated experience.
 
+Preview of the included themes (see the [gallery page](gallery.md) for full-size screenshots):
+
 <table>
   <tr>
     <td><img alt="Adapta Nokto" src="res/adapta-nokto.png" width="200"></td>

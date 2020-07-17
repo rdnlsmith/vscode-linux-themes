@@ -57,7 +57,10 @@ const colorSet: IColorSet = {
     brightWhite: '#ffffff',
   },
   ui: {
-    selection: colors.midAubergine
+    selection: colors.midAubergine,
+    selectionHighlight: colors.midAubergine + 'aa',
+    wordHighlight: colors.midAubergine + 'aa',
+    wordHighlightStrong: colors.midAubergine + 'aa',
   },
   overrides: {
     'activityBar.background': colors.activityBarGray,

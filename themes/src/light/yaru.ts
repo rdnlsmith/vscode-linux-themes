@@ -24,6 +24,8 @@ const colors = {
   textGray: '#111111',
   ubuntuWarmGray: '#aea79f',
   guideGray: '#bfbfbf',
+  badgeGreen: '#109a26',
+  badgeRed: '#c6162b',
 }
 
 const colorSet: IColorSet = {
@@ -62,11 +64,16 @@ const colorSet: IColorSet = {
   ui: {
     invisibles: colors.guideGray,
     guide: colors.guideGray,
-    selection: colors.midAubergine,
+    selection: colors.lightAubergine + 'aa',
+    selectionHighlight: colors.lightAubergine + 'aa',
+    wordHighlight: colors.lightAubergine + 'aa',
+    wordHighlightStrong: colors.lightAubergine + 'aa',
   },
   overrides: {
     'activityBar.background': colors.highlightGray,
     'activityBar.foreground': colors.textGray,
+    'activityBarBadge.background': colors.badgeGreen,
+    'badge.background': colors.badgeRed,
     'debugToolBar.background': colors.white,
     'dropdown.background': colors.white,
     'editor.background': colors.white,

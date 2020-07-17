@@ -16,9 +16,12 @@ const colors = {
   menuGray: '#494949',
   bodyGray: '#383838',
   editorGray: '#2f2f2f',
+  activityBarGray: '#484848',
   sideBarGray: '#3f3f3f',
   highlightGray: '#575757',
   commentGray: '#a8a8a8',
+  badgeGreen: '#0c6d1a',
+  badgeRed: '#991121',
 }
 
 const colorSet: IColorSet = {
@@ -57,7 +60,9 @@ const colorSet: IColorSet = {
     selection: colors.midAubergine
   },
   overrides: {
-    'activityBar.background': colors.highlightGray,
+    'activityBar.background': colors.activityBarGray,
+    'activityBarBadge.background': colors.badgeGreen,
+    'badge.background': colors.badgeRed,
     'editor.background': colors.editorGray,
     'editorGroupHeader.tabsBackground': colors.bodyGray,
     'editorIndentGuide.activeBackground': colors.ubuntuOrange,
@@ -68,6 +73,7 @@ const colorSet: IColorSet = {
     'menu.selectionBackground': colors.highlightGray,
     'menubar.selectionBackground': colors.menuGray,
     'panel.background': colors.bodyGray,
+    'input.background': colors.activityBarGray,
     'sideBar.background': colors.sideBarGray,
     'sideBarSectionHeader.background': colors.highlightGray,
     'statusBar.background': colors.editorGray,

@@ -14,9 +14,9 @@
 
 ![Arc Dark](res/arc-dark.png)
 
-### United Ubuntu
+### United GNOME
 
-![United Ubuntu](res/united-gnome.png)
+![United GNOME](res/united-gnome.png)
 
 ### Yaru Dark
 

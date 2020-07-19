@@ -1,5 +1,5 @@
 {
-	"name": "United Ubuntu",
+	"name": "United GNOME",
     "type": "dark",
     "include": "../include/dark+_vs.json",
 	"colors": {

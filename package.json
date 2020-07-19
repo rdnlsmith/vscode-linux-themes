@@ -38,9 +38,14 @@
         "path": "./themes/dark/arc-dark.json"
       },
       {
-        "label": "United Ubuntu",
+        "label": "United GNOME",
         "uiTheme": "vs-dark",
         "path": "./themes/dark/united-gnome.json"
+      },
+      {
+        "label": "United Ubuntu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark/united-ubuntu.json"
       },
       {
         "label": "Yaru Dark",

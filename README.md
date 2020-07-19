@@ -18,7 +18,7 @@ Preview of the included themes (see the [gallery page](gallery.md) for full-size
     <th>Ambiance</th>
     <th>Adapta Nokto</th>
     <th>Arc Dark</th>
-    <th>United Gnome</th>
+    <th>United GNOME</th>
   </tr>
   <tr>
     <td><img alt="Yaru Dark" src="res/yaru-dark.png" width="200"></td>

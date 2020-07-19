@@ -2,7 +2,7 @@
   "name": "linux-themes",
   "displayName": "Linux Themes for VS Code",
   "description": "Color themes designed to match the popular Ubuntu themes.",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "publisher": "rdnlsmith",
   "icon": "icon.png",
   "license": "GPL-3.0",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "GitHub",
-    "url": "https://github.com/rdnlsmith/vscode-arc-theme"
+    "url": "https://github.com/rdnlsmith/vscode-linux-themes"
   },
   "engines": {
     "vscode": "^1.12.0"

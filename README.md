@@ -1,6 +1,6 @@
 # Linux Themes for Visual Studio Code
 
-[![GitHub license](https://img.shields.io/github/license/rdnlsmith/vscode-arc-theme.svg)](https://raw.githubusercontent.com/rdnlsmith/vscode-arc-theme/master/LICENSE) [![Download](https://img.shields.io/badge/VS%20Code-v1.2.0-green.svg)](https://marketplace.visualstudio.com/items?itemName=rdnlsmith.linux-themes) [![GitHub issues](https://img.shields.io/github/issues/rdnlsmith/vscode-arc-theme.svg)](https://github.com/rdnlsmith/vscode-arc-theme/issues)
+[![GitHub license](https://img.shields.io/github/license/rdnlsmith/vscode-linux-themes.svg)](https://raw.githubusercontent.com/rdnlsmith/vscode-linux-themes/master/LICENSE) [![Download](https://img.shields.io/badge/VS%20Code-v1.3.0-green.svg)](https://marketplace.visualstudio.com/items?itemName=rdnlsmith.linux-themes) [![GitHub issues](https://img.shields.io/github/issues/rdnlsmith/vscode-linux-themes.svg)](https://github.com/rdnlsmith/vscode-linux-themes/issues)
 ## Integrated color themes for the most popular Linux GTK themes
 
 These VS Code themes blend seamlessly with your GTK themes to provide a more integrated experience.
@@ -61,6 +61,6 @@ See [CHANGELOG.md](./CHANGELOG.md) for historical changelogs.
 
 ### Contribute
 
-Head over to the [GitHub Repository](https://github.com/rdnlsmith/vscode-arc-theme) to contribute.
+Head over to the [GitHub Repository](https://github.com/rdnlsmith/vscode-linux-themes) to contribute.
 
 **Enjoy!**

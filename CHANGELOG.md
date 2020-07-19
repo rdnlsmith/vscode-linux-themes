@@ -11,6 +11,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * [Flat-Plat] Early development
 * [Pocillo Dark] Early development
 
+## v1.3.0
+
+### Changed
+
+* New grid of theme thumbnails in README, plus separate gallery page (thanks @waldyrious!)
+* [Yaru], [Yaru Dark] More accurate colors for 20.04 (thanks @Feichtmeier!)
+* [Yaru], [Yaru Dark] More legible, consistent selection highlighting
+
 ## v1.2.0
 
 ### Added
